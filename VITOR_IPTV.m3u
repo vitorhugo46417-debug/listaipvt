@@ -1,0 +1,28 @@
+#EXTM3U
+
+# VITOR IPTV - canais brasileiros gratuitos
+# Fontes públicas; disponibilidade e compatibilidade podem mudar.
+# Adicione seus links autorizados abaixo de cada linha EXTINF.
+
+# ===== CANAIS PUBLICOS / LEGISLATIVOS =====
+#EXTINF:-1 tvg-name="TV Câmara" group-title="Brasil | Públicos",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-name="TV Senado" group-title="Brasil | Públicos",TV Senado
+https://tv.senado.leg.br/hls/tv-senado.m3u8
+
+# ===== CULTURA E EDUCACAO =====
+#EXTINF:-1 tvg-name="TV Cultura" group-title="Brasil | Cultura",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-name="TV Brasil" group-title="Brasil | Cultura",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+# ===== SEUS CANAIS (COLE SOMENTE LINKS AUTORIZADOS) =====
+# Exemplo:
+#EXTINF:-1 tvg-name="Meu Canal" group-title="Meus canais",Meu Canal
+#COLE_AQUI_O_LINK_M3U8
+
+# Para adicionar outro canal, repita:
+#EXTINF:-1 tvg-name="Nome do canal" group-title="Esportes",Nome do canal
+#https://endereco-autorizado/stream.m3u8
